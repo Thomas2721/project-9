@@ -1,0 +1,12 @@
+div .box{
+    border: 1px solid dark;
+    padding: 25px;
+    border-radius: 10px;
+  }
+  button{
+    width: 120px;
+    height: 30px;
+    background-color: rgb(7, 91, 208);
+    border: none;
+    margin: 10px;
+  }
